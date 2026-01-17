@@ -12,4 +12,4 @@ else:
     t.pencolor("red")
     t.write("tharts wrong!", font=("Arial", 30, "normal"), align="center")
 
-input("press any key... ")
+input("press any key....yay ")
